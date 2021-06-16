@@ -33,7 +33,7 @@ import * as avalon from 'avalon2'
 
 ### [English tutorials](https://github.com/RubyLouvre/avalon/tree/master/tutorials)
 
-### [avalon cookbook](https://github.com/RubyLouvre/avalon/blob/2.1.8/avalon%20cookbook.pdf)
+### [avalon cookbook](https://github.com/muyun153/avalon/blob/2.1.8/avalon%20cookbook.pdf)
 
 这是基于官网制成的电子书,方便大家离线阅览
 
